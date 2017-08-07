@@ -1,0 +1,314 @@
+2017-02-05 11:51:48	NOTICE		tlenmager@gmail.com: Edit a Teamspeakserver (Tlenmager) Instanz: 0 Sid: 1
+2017-02-05 11:53:31	NOTICE		tlenmager@gmail.com: Edit a Teamspeakserver (Добро пожаловать ) Instanz: 0 Sid: 1
+2017-02-05 11:56:57	NOTICE		tlenmager@gmail.com: Edit a Teamspeakserver (1) Instanz: 0 Sid: 1
+2017-02-05 11:57:00	NOTICE		tlenmager@gmail.com: Edit a Teamspeakserver (1) Instanz: 0 Sid: 1
+2017-02-05 11:57:03	NOTICE		tlenmager@gmail.com: Edit a Teamspeakserver (1) Instanz: 0 Sid: 1
+2017-02-05 11:58:58	NOTICE		tlenmager@gmail.com: Stop a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-05 11:59:01	NOTICE		tlenmager@gmail.com: Start a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-05 12:11:47	NOTICE		tlenmager@gmail.com: Teamspeak Client Add Servergroup Sgroup: 7 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 12:11:47	NOTICE		tlenmager@gmail.com: Teamspeak Client Add Servergroup Sgroup: 6 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 12:11:50	NOTICE		tlenmager@gmail.com: Teamspeak Client Change Channelgroup Sgroup: 6 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 12:13:09	NOTICE		tlenmager@gmail.com: Teamspeak Client Remove Servergroup Sgroup: 6 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 12:13:09	NOTICE		tlenmager@gmail.com: Teamspeak Client Add Servergroup Sgroup: 6 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 12:13:10	NOTICE		tlenmager@gmail.com: Teamspeak Client Remove Servergroup Sgroup: 6 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 12:13:16	NOTICE		tlenmager@gmail.com: Teamspeak Client Add Servergroup Sgroup: 6 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 12:13:46	NOTICE		tlenmager@gmail.com: Teamspeak Client Remove Servergroup Sgroup: 6 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 12:13:49	NOTICE		tlenmager@gmail.com: Teamspeak Client Remove Servergroup Sgroup: 7 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 12:14:50	NOTICE		tlenmager@gmail.com: Teamspeak Client Remove Servergroup Sgroup: 6 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 12:14:51	NOTICE		tlenmager@gmail.com: Teamspeak Client Remove Servergroup Sgroup: 9 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 12:15:04	NOTICE		tlenmager@gmail.com: Teamspeak Client Change Channelgroup Sgroup: 5 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 12:15:05	NOTICE		tlenmager@gmail.com: Teamspeak Client Change Channelgroup Sgroup: 8 Client: 11 Instanz: 0 Port: 9987
+2017-02-05 14:36:12	NOTICE		tlenmager@gmail.com: Delete a Teamspeakchannel (2) Instanz: 0 Sid: 1
+2017-02-06 02:09:02	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-06 02:11:47	NOTICE		tlenmager@gmail.com: Change the Language to russian!
+2017-02-06 02:12:34	NOTICE		tlenmager@gmail.com: Change the theme to 'blackwolf'!
+2017-02-06 07:34:02	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-06 07:45:23	NOTICE		tlenmager@gmail.com: Has Added the Instanz "188.225.79.155"
+2017-02-06 07:47:52	NOTICE		tlenmager@gmail.com: Teamspeak Serverpoke Nachricht: Тест :-) Панели управления. Instanz: 1 Port: 8899
+2017-02-06 08:58:43	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'false'!
+2017-02-06 08:58:48	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'false'!
+2017-02-06 08:58:51	NOTICE		tlenmager@gmail.com: Set Modul "Webinterface" to 'false'
+2017-02-06 08:58:55	NOTICE		tlenmager@gmail.com: Set Modul "Masterserver" to 'false'!
+2017-02-06 08:59:57	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'true'!
+2017-02-06 08:59:59	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'true'!
+2017-02-06 09:00:03	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'false'!
+2017-02-06 09:00:05	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'false'!
+2017-02-06 09:00:52	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'true'!
+2017-02-06 09:00:55	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'false'!
+2017-02-06 09:00:57	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'true'!
+2017-02-06 09:01:03	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'false'!
+2017-02-06 09:01:03	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'true'!
+2017-02-06 09:02:22	NOTICE		tlenmager@gmail.com: Create a Client called 'admin@redoss.ru'!
+2017-02-10 03:01:21	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-10 03:04:59	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-10 03:09:12	NOTICE		tlenmager@gmail.com: Set Modul "Webinterface" to 'true'
+2017-02-10 03:09:24	NOTICE		tlenmager@gmail.com: Changed the Configfile!
+2017-02-10 03:11:32	NOTICE		tlenmager@gmail.com: Set Modul "Masterserver" to 'true'!
+2017-02-10 03:11:34	NOTICE		tlenmager@gmail.com: Set Modul "Masterserver" to 'false'!
+2017-02-10 04:00:37	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-10 04:01:44	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-10 04:06:03	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-10 05:42:26	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-10 05:52:06	NOTICE		tlenmager@gmail.com: Delete Token (Hu2raR0ppfBFPou0FTadacxT+ifUEORHOswCqDQ5) Instanz: 0 Sid: 1
+2017-02-11 02:43:23	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 03:08:57	NOTICE		tlenmager@gmail.com: Set Modul "Webinterface" to 'false'
+2017-02-11 03:09:00	NOTICE		tlenmager@gmail.com: Set Modul "Webinterface" to 'true'
+2017-02-11 03:09:04	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'false'!
+2017-02-11 03:09:08	NOTICE		tlenmager@gmail.com: Set Modul "Webinterface" to 'false'
+2017-02-11 03:10:42	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 03:11:04	NOTICE		tlenmager@gmail.com: Set Modul "Webinterface" to 'true'
+2017-02-11 03:32:50	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 03:35:13	NOTICE		tlenmager@gmail.com: Change the theme to 'minecraft'!
+2017-02-11 03:36:44	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 04:18:46	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 05:20:30	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 05:21:09	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 05:30:14	NOTICE		tlenmager@gmail.com: Has deleted the Instanz "1"
+2017-02-11 05:31:37	NOTICE		tlenmager@gmail.com: Edit a Teamspeakserver (256) Instanz: 0 Sid: 1
+2017-02-11 05:37:08	NOTICE		tlenmager@gmail.com: Create a Backup Typ: server Instanz: 0 Port: 9987
+2017-02-11 05:37:24	NOTICE		tlenmager@gmail.com: Create a Backup Typ: server Instanz: 0 Port: 9987
+2017-02-11 05:37:53	NOTICE		tlenmager@gmail.com: Give all Teamspeakrights (Instanz: '0', Port: '9988') to 'D6CBE2A4FBF6FCDFB984A042295EA000'!
+2017-02-11 05:47:18	NOTICE		tlenmager@gmail.com: Delete Teamspeak Server Instanz: 0 Sid: 3
+2017-02-11 05:47:19	NOTICE		tlenmager@gmail.com: Has deleted a Teamspeakport "9988" "0"
+2017-02-11 05:48:18	NOTICE		tlenmager@gmail.com: Stop a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-11 05:48:20	NOTICE		tlenmager@gmail.com: Start a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-11 05:53:00	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 05:57:47	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 06:01:29	NOTICE		admin@redoss.ru: Is logging in!
+2017-02-11 06:02:27	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 06:17:56	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 06:21:05	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 06:25:06	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'true'!
+2017-02-11 06:25:20	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'false'!
+2017-02-11 06:28:26	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 06:29:02	NOTICE		tlenmager@gmail.com: Give all Teamspeakrights (Instanz: '0', Port: '9988') to 'D6CBE2A4FBF6FCDFB984A042295EA000'!
+2017-02-11 06:31:20	NOTICE		admin@redoss.ru: Is logging in!
+2017-02-11 06:35:01	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 06:35:52	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 06:36:01	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'true'!
+2017-02-11 06:40:51	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'false'!
+2017-02-11 06:47:04	NOTICE		admin@redoss.ru: Is logging in!
+2017-02-11 06:47:46	NOTICE		tlenmager@gmail.com: Create a Client called 'test@gmail.com'!
+2017-02-11 06:48:08	NOTICE		test@gmail.com: Is logging in!
+2017-02-11 06:49:00	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 06:54:08	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 06:55:24	NOTICE		tlenmager@gmail.com: Edit a Users Global Permissions (FA4224135ECF41E0C58F3F79C0DC4061)
+2017-02-11 07:11:16	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 07:24:16	NOTICE		tlenmager@gmail.com: Stop a Teamspeakserver Instanz: 0 Sid: 4
+2017-02-11 07:24:54	NOTICE		tlenmager@gmail.com: Start a Teamspeakserver Instanz: 0 Sid: 4
+2017-02-11 07:33:36	NOTICE		tlenmager@gmail.com: Create a Backup Typ: server Instanz: 0 Port: 9988
+2017-02-11 07:44:23	NOTICE		admin@redoss.ru: Is logging in!
+2017-02-11 07:44:44	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 07:45:34	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'true'!
+2017-02-11 07:52:00	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 08:29:47	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 08:31:41	NOTICE		tlenmager@gmail.com: Delete a Teamspeakicon (1881836095) Instanz: 0 Sid: 1
+2017-02-11 08:46:13	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 08:52:09	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 17:07:36	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-11 17:20:12	NOTICE		tlenmager@gmail.com: Set Modul "Free Register" to 'false'!
+2017-02-11 18:18:46	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-12 00:33:15	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-12 00:47:17	NOTICE		tlenmager@gmail.com: Edit a Users Global Permissions (FA4224135ECF41E0C58F3F79C0DC4061)
+2017-02-12 00:47:17	NOTICE		tlenmager@gmail.com: Edit a Users Global Permissions (FA4224135ECF41E0C58F3F79C0DC4061)
+2017-02-12 00:47:17	NOTICE		tlenmager@gmail.com: Edit a Users Global Permissions (FA4224135ECF41E0C58F3F79C0DC4061)
+2017-02-12 00:47:17	NOTICE		tlenmager@gmail.com: Edit a Users Global Permissions (FA4224135ECF41E0C58F3F79C0DC4061)
+2017-02-12 00:47:17	NOTICE		tlenmager@gmail.com: Edit a Users Global Permissions (FA4224135ECF41E0C58F3F79C0DC4061)
+2017-02-12 00:47:17	NOTICE		tlenmager@gmail.com: Edit a Users Global Permissions (FA4224135ECF41E0C58F3F79C0DC4061)
+2017-02-12 00:47:17	NOTICE		tlenmager@gmail.com: Edit a Users Global Permissions (FA4224135ECF41E0C58F3F79C0DC4061)
+2017-02-12 00:48:14	NOTICE		tlenmager@gmail.com: Edit a Users Teamspeak Permissions (FA4224135ECF41E0C58F3F79C0DC4061)
+2017-02-12 00:49:04	NOTICE		admin@redoss.ru: Is logging in!
+2017-02-12 00:49:59	NOTICE		admin@redoss.ru: Is logging in!
+2017-02-12 00:58:48	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-12 05:12:33	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-12 05:18:22	NOTICE		tlenmager@gmail.com: Has Added the Instanz "188.225.34.225"
+2017-02-12 05:28:15	NOTICE		tlenmager@gmail.com: Teamspeak Client Move ChannelId: 1130 Client: 48 Instanz: 1 Port: 9987
+2017-02-12 05:28:16	NOTICE		tlenmager@gmail.com: Teamspeak Client Move ChannelId: 1130 Client: 82 Instanz: 1 Port: 9987
+2017-02-12 05:28:17	NOTICE		tlenmager@gmail.com: Teamspeak Client Move ChannelId: 1130 Client: 31 Instanz: 1 Port: 9987
+2017-02-12 05:28:18	NOTICE		tlenmager@gmail.com: Teamspeak Client Move ChannelId: 1130 Client: 88 Instanz: 1 Port: 9987
+2017-02-12 05:28:18	NOTICE		tlenmager@gmail.com: Teamspeak Client Move ChannelId: 1130 Client: 124 Instanz: 1 Port: 9987
+2017-02-12 05:28:39	NOTICE		tlenmager@gmail.com: Teamspeak Client Move ChannelId: 1136 Client: 31 Instanz: 1 Port: 9987
+2017-02-12 05:28:40	NOTICE		tlenmager@gmail.com: Teamspeak Client Move ChannelId: 1136 Client: 88 Instanz: 1 Port: 9987
+2017-02-12 05:28:41	NOTICE		tlenmager@gmail.com: Teamspeak Client Move ChannelId: 1136 Client: 124 Instanz: 1 Port: 9987
+2017-02-12 05:28:41	NOTICE		tlenmager@gmail.com: Teamspeak Client Move ChannelId: 1136 Client: 48 Instanz: 1 Port: 9987
+2017-02-12 05:28:42	NOTICE		tlenmager@gmail.com: Teamspeak Client Move ChannelId: 1136 Client: 82 Instanz: 1 Port: 9987
+2017-02-12 05:30:47	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:48	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:49	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:50	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:51	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:52	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:53	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:54	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:55	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:55	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:56	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:57	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:58	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:30:59	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:00	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:01	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:02	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:03	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:04	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:05	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:06	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:07	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:08	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:09	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:09	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:10	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:11	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:12	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:13	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:14	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:15	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:16	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:17	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:18	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:19	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:20	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:21	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:22	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:22	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:23	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:24	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:25	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:26	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:27	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:28	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:29	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:30	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:31	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:32	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 05:31:33	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: Проверка web панели управления сервером)) массовый пинок)) отвечать не нужно)) Instanz: 1 Port: 9987
+2017-02-12 06:20:17	NOTICE		tlenmager@gmail.com: Has deleted the Instanz "1"
+2017-02-12 07:19:34	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-12 11:35:11	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-12 12:02:01	NOTICE		admin@redoss.ru: Is logging in!
+2017-02-12 12:03:45	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-12 12:05:26	NOTICE		tlenmager@gmail.com: Edit a Users Teamspeak Server Edit spezific Permissions (FA4224135ECF41E0C58F3F79C0DC4061)
+2017-02-12 12:06:03	NOTICE		admin@redoss.ru: Is logging in!
+2017-02-12 19:24:57	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-12 19:27:04	NOTICE		tlenmager@gmail.com: Changed the Configfile!
+2017-02-12 19:28:00	NOTICE		tlenmager@gmail.com: Edit a Users Teamspeak Permissions (9C619E19078A1611F0C0FDF387B2D70D)
+2017-02-12 19:28:21	NOTICE		tlenmager@gmail.com: Edit a Users Teamspeak Server Edit spezific Permissions (FA4224135ECF41E0C58F3F79C0DC4061)
+2017-02-12 19:28:25	NOTICE		tlenmager@gmail.com: Edit a Users Teamspeak Permissions (FA4224135ECF41E0C58F3F79C0DC4061)
+2017-02-12 19:28:53	NOTICE		admin@redoss.ru: Is logging in!
+2017-02-12 19:31:25	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-13 11:00:43	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-13 11:01:16	NOTICE		tlenmager@gmail.com: Teamspeak Client Message Message: heeey Instanz: 0 Port: 9987
+2017-02-13 11:02:49	NOTICE		tlenmager@gmail.com: Stop a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-13 11:02:51	NOTICE		tlenmager@gmail.com: Start a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-13 11:02:53	NOTICE		tlenmager@gmail.com: Stop a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-13 11:02:55	NOTICE		tlenmager@gmail.com: Start a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-13 11:02:57	NOTICE		tlenmager@gmail.com: Stop a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-13 11:02:59	NOTICE		tlenmager@gmail.com: Start a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-13 11:03:01	NOTICE		tlenmager@gmail.com: Stop a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-13 11:03:03	NOTICE		tlenmager@gmail.com: Start a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-13 11:03:13	NOTICE		tlenmager@gmail.com: Stop a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-13 11:03:23	NOTICE		tlenmager@gmail.com: Start a Teamspeakserver Instanz: 0 Sid: 1
+2017-02-13 13:57:17	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-13 15:23:05	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-14 12:15:32	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-14 12:17:13	NOTICE		tlenmager@gmail.com: Has Added the Instanz "188.225.34.225"
+2017-02-14 12:19:12	NOTICE		tlenmager@gmail.com: Has deleted the Instanz "1"
+2017-02-15 10:49:52	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-16 12:28:57	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-16 12:30:11	NOTICE		tlenmager@gmail.com: Has Added the Instanz "188.225.34.225"
+2017-02-16 12:31:19	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-16 12:32:23	NOTICE		tlenmager@gmail.com: Edit a Users Teamspeak Permissions (9C619E19078A1611F0C0FDF387B2D70D)
+2017-02-16 12:32:57	NOTICE		tlenmager@gmail.com: Edit a Users Global Permissions (9C619E19078A1611F0C0FDF387B2D70D)
+2017-02-16 12:33:09	NOTICE		tlenmager@gmail.com: Edit a Users Global Permissions (9C619E19078A1611F0C0FDF387B2D70D)
+2017-02-16 12:33:09	NOTICE		tlenmager@gmail.com: Profil ('adminPassword') will be updated!
+2017-02-16 12:33:34	NOTICE		test@gmail.com: Is logging in!
+2017-02-16 12:37:44	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-16 12:42:03	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-16 12:50:56	NOTICE		tlenmager@gmail.com: Has deleted the Instanz "1"
+2017-02-18 10:46:16	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-18 11:09:13	NOTICE		tlenmager@gmail.com: Has Added the Instanz "188.225.34.225"
+2017-02-18 11:15:12	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:13	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:14	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:15	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:16	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:16	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:17	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:18	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:19	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:20	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:21	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:22	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:23	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:24	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:25	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:26	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:27	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:28	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:29	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:30	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:30	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:31	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:32	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:33	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:34	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:35	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:36	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:37	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:38	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:39	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:40	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:41	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:42	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:43	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:44	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:44	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:45	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:46	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:47	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:15:48	NOTICE		tlenmager@gmail.com: Teamspeak Client Poke Message: В течении нескольких минут сервер будет отключен за неуплату. Instanz: 1 Port: 9988
+2017-02-18 11:18:14	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 2 Instanz: 1 Port: 9988
+2017-02-18 11:18:15	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 3 Instanz: 1 Port: 9988
+2017-02-18 11:18:16	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 8 Instanz: 1 Port: 9988
+2017-02-18 11:18:17	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 6 Instanz: 1 Port: 9988
+2017-02-18 11:18:18	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 9 Instanz: 1 Port: 9988
+2017-02-18 11:18:19	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 19 Instanz: 1 Port: 9988
+2017-02-18 11:18:19	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 22 Instanz: 1 Port: 9988
+2017-02-18 11:18:20	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 5 Instanz: 1 Port: 9988
+2017-02-18 11:18:21	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 25 Instanz: 1 Port: 9988
+2017-02-18 11:18:22	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 31 Instanz: 1 Port: 9988
+2017-02-18 11:18:23	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 41 Instanz: 1 Port: 9988
+2017-02-18 11:18:24	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 17 Instanz: 1 Port: 9988
+2017-02-18 11:18:25	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 36 Instanz: 1 Port: 9988
+2017-02-18 11:18:26	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 44 Instanz: 1 Port: 9988
+2017-02-18 11:18:27	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 48 Instanz: 1 Port: 9988
+2017-02-18 11:18:28	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 53 Instanz: 1 Port: 9988
+2017-02-18 11:18:29	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 50 Instanz: 1 Port: 9988
+2017-02-18 11:18:30	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 63 Instanz: 1 Port: 9988
+2017-02-18 11:18:31	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 18 Instanz: 1 Port: 9988
+2017-02-18 11:18:32	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 70 Instanz: 1 Port: 9988
+2017-02-18 11:18:33	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 54 Instanz: 1 Port: 9988
+2017-02-18 11:18:33	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 52 Instanz: 1 Port: 9988
+2017-02-18 11:18:34	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 11 Instanz: 1 Port: 9988
+2017-02-18 11:18:35	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 67 Instanz: 1 Port: 9988
+2017-02-18 11:18:36	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 14 Instanz: 1 Port: 9988
+2017-02-18 11:18:37	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 60 Instanz: 1 Port: 9988
+2017-02-18 11:18:38	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 68 Instanz: 1 Port: 9988
+2017-02-18 11:18:39	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 58 Instanz: 1 Port: 9988
+2017-02-18 11:18:40	NOTICE		tlenmager@gmail.com: Teamspeak Client Kick Message: Сервер отключен за неуплату. Client: 72 Instanz: 1 Port: 9988
+2017-02-18 12:35:50	NOTICE		tlenmager@gmail.com: Teamspeak Client Unban Banid: 402 Instanz: 1 Port: 9990
+2017-02-18 12:39:43	NOTICE		tlenmager@gmail.com: Has deleted the Instanz "1"
+2017-02-18 23:51:44	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-19 09:05:51	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-19 09:06:41	NOTICE		tlenmager@gmail.com: Has Added the Instanz "188.225.34.225"
+2017-02-19 12:46:23	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-19 12:46:32	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-19 12:46:49	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-19 12:47:02	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-19 12:47:10	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-19 12:47:31	NOTICE		admin@redoss.ru: Is logging in!
+2017-02-19 12:47:56	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-19 12:48:20	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-19 13:06:47	NOTICE		tlenmager@gmail.com: Is logging in!
+2017-02-19 14:03:07	NOTICE		tlenmager@gmail.com: Has deleted the Instanz "0"
+2017-02-19 14:06:04	NOTICE		tlenmager@gmail.com: Is logging in!
